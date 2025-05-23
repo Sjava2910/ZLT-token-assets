@@ -1,0 +1,10 @@
+{
+  "name": "Zoloto",
+  "symbol": "ZLT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Zoloto (ZLT) — это цифровое золото нового поколения.",
+  "website": "https://zlt.one",
+  "explorer": "https://bscscan.com/token/0xF6Eb90f23b76172281ED13AE50eA481983568798",
+  "status": "active"
+}
